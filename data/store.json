@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "store_image": "https://img.freepik.com/free-photo/top-view-meals-tasty-yummy-different-pastries-dishes-brown-surface_140725-14554.jpg?w=360&t=st=1690039697~exp=1690040297~hmac=ce84d017bca8e6f2623dabf5f99b11af80073b3ab2a63c2f57178f2cd248e2e4",
+        "title": "Burger Blitz",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 2,
+        "store_image": "https://img.freepik.com/free-photo/cold-apetizers-pickles-mangal-salad-eggplant-rolls-cheese-plate-green-salad-side-view_141793-3715.jpg?w=740&t=st=1690034937~exp=1690035537~hmac=6237122641adaea2ca0dec285891b00d9f0028444903fc9b84cb0887998c0827",
+        "title": "Pizza Paradise",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 3,
+        "store_image": "https://img.freepik.com/free-photo/dining-table-with-sage-various-snacks_140725-3551.jpg?w=360&t=st=1690034959~exp=1690035559~hmac=740e04733e85674653eb6fa2579ce58f859c271a5733f0bc22e0e4beb5427628",
+        "title": "Taco Town",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 4,
+        "store_image": "https://img.freepik.com/free-photo/top-view-food-banquet_23-2149893420.jpg?w=360&t=st=1690034988~exp=1690035588~hmac=4e716691ef2f06755b974af9d861f98eeb1324488bc9348bf82de59c66d63a65",
+        "title": "Chicken Coop",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 5,
+        "store_image": "https://img.freepik.com/premium-photo/beautiful-plate-fresh-perfect-colorful-flowers-standing-luxury-table_550617-69683.jpg?w=360",
+        "title": "Hot Dog Haven",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 6,
+        "store_image": "https://img.freepik.com/free-photo/business-lunch-table_140725-9352.jpg?w=360&t=st=1690035037~exp=1690035637~hmac=a912e4fb2c6da792062b9a6beb684d399cdf7b793759217f52f22bf4aed8c81e",
+        "title": "Sushi Express",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 7,
+        "store_image": "https://img.freepik.com/free-photo/arrangement-with-delicious-food_23-2148941560.jpg?w=360&t=st=1690035058~exp=1690035658~hmac=66ccdf0901a05c682280e88d1b49aceaad2f57b10823eb52809426cbbd5acfb8",
+        "title": "Burrito Bonanza",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 8,
+        "store_image": "https://img.freepik.com/free-photo/breakfast-set-table_140725-4478.jpg?w=360&t=st=1690035079~exp=1690035679~hmac=b834f19b1f652d70cd3a05f9c441eb25b92734012f54862590d7419c6a1a289b",
+        "title": "Fried Chicken Frenzy",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 9,
+        "store_image": "https://img.freepik.com/free-photo/side-view-table-with-cheese-plate-pate-it_140725-12866.jpg?w=360&t=st=1690035101~exp=1690035701~hmac=7239e25295834e59cb87eab0a0b2c685cc3f2784c78d786712f3337b3523bc58",
+        "title": "Waffle World",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    },
+    {
+        "id": 10,
+        "store_image": "https://img.freepik.com/free-photo/poached-eggs-tomato-crispy-bread-plate_140725-6774.jpg?w=360&t=st=1690035122~exp=1690035722~hmac=1eb2e55bec4a75e4b5e9622971ef15d82b9e13e6ddd0918dd1c713bd09fee0d6",
+        "title": "Ice Cream Island",
+        "des": "Full-service restaurants (FSRs) provide table service to guests and employ a server staff to take orders and deliver food. Quick-service restaurants (QSR) provide counter service or drive-thru service only."
+    }
+]

@@ -1,0 +1,1046 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-man-cooking-kitchen_23-2149631669.jpg?w=360&t=st=1689703866~exp=1689704466~hmac=d723a80dd82adfe9a03868a71b70b6bb4fabb3720d57b2e90c123f3ac05f6a85",
+        "chef_name": "John Smith",
+        "year_of_experience": 15,
+        "number_of_recipes": 250,
+        "likes": 10000,
+        "description": "A burger maestro with a penchant for creativity, Chef John Smith has revolutionized the burger scene with his inventive flavor combinations and gourmet toppings. From juicy Wagyu beef patties to plant-based delights, his burger joint has become a haven for burger enthusiasts seeking a culinary adventure.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://img.freepik.com/free-photo/medium-shot-smiley-man-holding-food-plate_23-2149631670.jpg?w=360&t=st=1689689609~exp=1689690209~hmac=c83af51fef131dc65994332531e81e050ca6f0b0d54ebd5a62fac3c00d50678b",
+        "chef_name": "Maria Garcia",
+        "year_of_experience": 12,
+        "number_of_recipes": 180,
+        "likes": 8000,
+        "description": "A burger aficionado from Texas, Chef Maria Garcia is renowned for her mouthwatering BBQ-infused burgers. Drawing inspiration from her Southern roots, she expertly blends smoky flavors and tangy sauces to create irresistible, finger-licking burgers that leave customers craving more.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-work-kitchen_52683-92777.jpg?w=360&t=st=1689689644~exp=1689690244~hmac=c9bc32a0d08b83f11c26c2e5bb70ce5caa7455e11a5861677995f1f829634319",
+        "chef_name": "David Lee",
+        "year_of_experience": 20,
+        "number_of_recipes": 300,
+        "likes": 12000,
+        "description": "With a background in fine dining, Chef David Lee brings a touch of elegance to classic burgers. His upscale bistro boasts a menu featuring delectable Wagyu sliders, truffle-infused toppings, and artisanal buns, providing a gourmet twist to the humble burger.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen-holding-plate-food_23-2149646275.jpg?w=360&t=st=1689689720~exp=1689690320~hmac=0bd9e02e3523513675b84b61416bf0f94b62ca2f866fe3f4c9283547035e1758",
+        "chef_name": "Leila Nguyen",
+        "year_of_experience": 8,
+        "number_of_recipes": 120,
+        "likes": 5000,
+        "description": "A pioneer in the plant-based burger movement, Chef Leila Nguyen is dedicated to crafting flavorful and satisfying vegan burgers. Her imaginative creations, featuring quinoa, black beans, and roasted veggies, have earned a devoted following among vegans and non-vegans alike.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1689689753~exp=1689690353~hmac=d4db037dc4325cf237be8d6bf64deed712dbb5b0d236f6f2da4f83a4771325dc",
+        "chef_name": "Michael Brown",
+        "year_of_experience": 10,
+        "number_of_recipes": 160,
+        "likes": 7000,
+        "description": "As a connoisseur of global flavors, Chef Michael Brown burgers are a celebration of diverse tastes. From Korean-inspired kimchi burgers to Indian-spiced chutney delights, his restaurant takes diners on a culinary world tour through the medium of burgers.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen-holding-plate-food_23-2149646275.jpg?w=360&t=st=1689703900~exp=1689704500~hmac=d5dbd2f2f84d8f1f740bebfb932c1352b9c9d73129f35903190e1fa2fe59c815",
+        "chef_name": "Emily Johnson",
+        "year_of_experience": 5,
+        "number_of_recipes": 80,
+        "likes": 3000,
+        "description": "A culinary prodigy, Chef Emily Johnson started her journey in her grandmother's kitchen. Today, she runs a cozy burger bar with a focus on nostalgic comfort food. Her classic cheeseburgers and homemade sauces evoke a sense of warmth and nostalgia in every bite.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta_23-2148794086.jpg?w=360&t=st=1689689819~exp=1689690419~hmac=55cbf4b5e1c12925613c4d76c549c91d2ce4704b902599eb8a56f7c51f0d1323",
+        "chef_name": "Daniel Kim",
+        "year_of_experience": 18,
+        "number_of_recipes": 280,
+        "likes": 11000,
+        "description": "Daniel Kim is a British celebrity chef, restaurateur, television presenter, and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://img.freepik.com/free-photo/male-baker-holding-handful-wheat-grain-baked-bread_23-2147883453.jpg?w=360&t=st=1689689928~exp=1689690528~hmac=b824fe5a7f07e4699e9c8e4fadad28f94461a4d24ecb92007e462bb59d1252a6",
+        "chef_name": "Luke Martinez",
+        "year_of_experience": 13,
+        "number_of_recipes": 200,
+        "likes": 9000,
+        "description": "A true artisan of the grill, Chef Olivia Martinez burgers are a testament to simplicity done to perfection. His emphasis on high-quality ingredients and expert grilling techniques has earned him a reputation for serving some of the juiciest and most flavorful burgers in town.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-work-kitchen_52683-92777.jpg?w=360&t=st=1689689644~exp=1689690244~hmac=c9bc32a0d08b83f11c26c2e5bb70ce5caa7455e11a5861677995f1f829634319",
+        "chef_name": "William Nguy",
+        "year_of_experience": 7,
+        "number_of_recipes": 100,
+        "likes": 4500,
+        "description": "A burger virtuoso with a Japanese twist, Chef William Nguyen infuses her creations with delicate umami flavors and precision. Her teriyaki-glazed burgers and wasabi aioli have captured the hearts of adventurous foodies looking for a fusion of East and West.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "chef_picture": "https://img.freepik.com/free-photo/medium-shot-smiley-man-cooking_23-2149631703.jpg?w=360&t=st=1689704006~exp=1689704606~hmac=0fdb5762569ec2f986a2022041366d106ac3977ee2d3dca1f6034bfcc221d27f",
+        "chef_name": "Ava Patel",
+        "year_of_experience": 5,
+        "number_of_recipes": 140,
+        "likes": 6000,
+        "description": "A true grill master, Chef Ava Patel passion for all things smoky translates into his signature wood-fired burgers. His artistry lies in the perfect char, and his handcrafted sauces add layers of complexity to each bite, making his burgers a feast for the senses.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1689703230~exp=1689703830~hmac=497a84309fbb1a838a5b0df18acd3269bd187668e15c6c693cfc40c09a55b03f",
+        "chef_name": "Abdullah Heim",
+        "year_of_experience": 10,
+        "number_of_recipes": 90,
+        "likes": 3000,
+        "description": "Known for her farm-to-table approach, Chef Abdullah Heim is committed to sustainability and locally sourced ingredients. Her eco-friendly burgers highlight the best seasonal produce, and her dedication to responsible sourcing has earned her a loyal following of conscious eaters.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "chef_picture": "https://img.freepik.com/free-photo/head-cook-throwing-fresh-chopped-herbs-pan-improve-taste-meal-while-professional-kitchen-master-chef-seasoning-dish-prepared-food-contest-held-fine-dining-restaurant_482257-40137.jpg?w=360&t=st=1689703133~exp=1689703733~hmac=2fbfd1df2bae48d89b5c1d56918a7627b21f41e1fd2e4b5383a983fe26ba62f0",
+        "chef_name": "Masuk Grand",
+        "year_of_experience": 3,
+        "number_of_recipes": 100,
+        "likes": 1000,
+        "description": "Hailing from Argentina, Chef Masuk Grand brings his expertise in grilling to the burger scene. With an emphasis on high-quality beef and traditional Argentine chimichurri, his burgers offer a taste of the South American parrilla experience to burger enthusiasts around the world.",
+        "popular_recipes": [
+            {
+                "recipe_id": "recipe_001",
+                "recipe_name": "Classic Beef Burger",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 hamburger buns",
+                    "4 slices of cheddar cheese",
+                    "Lettuce, tomato, onion, and pickles for toppings",
+                    "Ketchup and mustard for condiments"
+                ],
+                "photo": "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?w=740&t=st=1690138208~exp=1690138808~hmac=5fb211e8d0eb396f0e7de28d3ce29d162e91abeb71de6acca6a180314e941926",
+                "cooking_method": "1. In a bowl, combine ground beef, Worcestershire sauce, salt, and black pepper.\n2. Form the mixture into four patties.\n3. Preheat a grill or stovetop pan over medium-high heat.\n4. Cook the patties for about 4-5 minutes per side or until desired doneness.\n5. During the last minute of cooking, top each patty with a slice of cheddar cheese to melt.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with lettuce, tomato, onion, and pickles.\n8. Add ketchup and mustard as desired.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.6,
+                "recipe_likes": 123
+            },
+            {
+                "recipe_id": "recipe_002",
+                "recipe_name": "Spicy Chicken Burger",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "2 tablespoons olive oil",
+                    "1 teaspoon paprika",
+                    "1/2 teaspoon cayenne pepper",
+                    "4 hamburger buns",
+                    "4 slices of pepper jack cheese",
+                    "Lettuce, tomato, and avocado for toppings",
+                    "Spicy mayo for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/beef-cotlet-burger-with-sauce-wooden-board_114579-2600.jpg?w=740&t=st=1690138498~exp=1690139098~hmac=745a2c0886c3470043b5f2e5a3433189da2d0bf8f9a72fcead2fa6bfe826d3ba",
+                "cooking_method": "1. Season the chicken breasts with paprika, cayenne pepper, salt, and black pepper.\n2. Preheat a grill or stovetop pan over medium-high heat.\n3. Brush the chicken with olive oil and grill for about 6-7 minutes per side or until cooked through.\n4. During the last minute of cooking, top each chicken breast with a slice of pepper jack cheese to melt.\n5. Toast the hamburger buns on the grill or in a toaster.\n6. Assemble the burgers with lettuce, tomato, and avocado.\n7. Spread spicy mayo on the buns and add the chicken breasts with toppings.\n8. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.7,
+                "recipe_likes": 177
+            },
+            {
+                "recipe_id": "recipe_003",
+                "recipe_name": "Veggie Quinoa Burger",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "1 can (15 ounces) black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1/4 cup finely chopped red bell pepper",
+                    "1/4 cup finely chopped red onion",
+                    "1 clove garlic, minced",
+                    "1 teaspoon ground cumin",
+                    "1/2 teaspoon smoked paprika",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado, lettuce, and tomato for toppings",
+                    "Tahini sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?w=740&t=st=1690138424~exp=1690139024~hmac=aabeac1098b97c6d72df2c9a3e8456f17767fe2a600e49cdab5c96aaa779671d",
+                "cooking_method": "1. In a large bowl, mash the black beans with a fork.\n2. Add cooked quinoa, breadcrumbs, red bell pepper, red onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.\n3. Mix all ingredients until well combined.\n4. Form the mixture into four patties.\n5. Preheat a grill or stovetop pan over medium-high heat.\n6. Cook the patties for about 4-5 minutes per side or until lightly browned.\n7. Toast the hamburger buns on the grill or in a toaster.\n8. Assemble the burgers with sliced avocado, lettuce, and tomato.\n9. Drizzle tahini sauce on the buns and add the veggie quinoa patties with toppings.\n10. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.5,
+                "recipe_likes": 145
+            },
+            {
+                "recipe_id": "recipe_004",
+                "recipe_name": "Salmon Avocado Burger",
+                "ingredients": [
+                    "1 pound fresh salmon fillet",
+                    "1 tablespoon olive oil",
+                    "1 teaspoon lemon zest",
+                    "1 tablespoon chopped fresh dill",
+                    "Salt and black pepper to taste",
+                    "4 hamburger buns",
+                    "Sliced avocado and cucumber for toppings",
+                    "Dill yogurt sauce for condiment"
+                ],
+                "photo": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=740&t=st=1690138537~exp=1690139137~hmac=e514a2c08ab79ea794fa6764e65cf00c336d244eab4f05c40dd14f15a8f39579",
+                "cooking_method": "1. Remove the skin from the salmon fillet and chop it finely.\n2. In a bowl, mix chopped salmon, olive oil, lemon zest, chopped dill, salt, and black pepper.\n3. Form the mixture into four patties.\n4. Preheat a grill or stovetop pan over medium-high heat.\n5. Cook the patties for about 3-4 minutes per side or until cooked through.\n6. Toast the hamburger buns on the grill or in a toaster.\n7. Assemble the burgers with sliced avocado and cucumber.\n8. Spread dill yogurt sauce on the buns and add the salmon patties with toppings.\n9. Serve the burgers with your favorite sides and enjoy!",
+                "rating": 4.9,
+                "recipe_likes": 212
+            }
+        ]
+    }
+]
